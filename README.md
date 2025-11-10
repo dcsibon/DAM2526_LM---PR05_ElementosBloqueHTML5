@@ -127,7 +127,34 @@ Una página web estructurada y semánticamente correcta, con una cabecera, un me
 
 ---
 
-9. **Aplicar estilo**
-  Por último, aplica el fichero de estilo que tienes en los recursos de la práctica 5 a la web que acabas de crear.
+9. **Imágenes**
+
+   * Crea una carpeta `img/` para almacenar las imágenes.
+   * Añade ficheros de imagen reales para evitar errores de carga.
+   * Intenta que todas las imágenes usadas en los artículos tengan un **tamaño similar** (por ejemplo, mismo ancho) para mantener una maquetación uniforme.
+   * Usa nombres coherentes: `art1.jpg`, `art2.jpg`, etc., o similares.
 
 ---
+
+10. **Aplicar estilos (CSS externo)**
+
+    * Descarga o utiliza el archivo `estilo.css` proporcionado en los recursos de la práctica.
+    * Enlázalo en el `<head>` del documento HTML:
+
+      ```html
+      <link rel="stylesheet" href="estilo.css">
+      ```
+    * Verifica que el diseño aplicado:
+
+      * Respeta la estructura creada.
+      * Mejora la legibilidad de cabecera, menú, secciones, artículos y pie.
+      * No requiere modificar el HTML más allá de lo indicado en este enunciado.
+
+---
+
+### Notas
+
+* No utilices etiquetas obsoletas como `<center>`, `<font>`, `<big>`, `<u>`, etc.
+* Respeta la jerarquía de encabezados (`h1` para el título principal, `h2` para secciones, `h3` para subtítulos y títulos de artículos).
+* Asegúrate de que todos los enlaces del menú funcionan y llevan a su sección correspondiente.
+* El documento debe ser **válido HTML5** (se puede comprobar con el validador del W3C).
