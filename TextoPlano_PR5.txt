@@ -1,0 +1,66 @@
+DAM 1 – IES Saladillo
+Menú 1
+Menú 2
+Menú 3
+Menú 4
+Menú 5
+Título del contenido de Menú 1
+Lorem Ipsum
+Imagen ilustrativa del artículo 1
+Título del artículo 1
+El texto estándar de Lorem Ipsum ha sido utilizado desde el siglo XVI. Cicerón fue uno de los primeros autores en emplearlo, y su uso se ha mantenido en la industria editorial y de diseño gráfico.
+
+A pesar de las muchas variaciones disponibles, la mayoría sufrió alteraciones o añadidos humorísticos que no siempre resultan coherentes con el texto original.
+
+Imagen ilustrativa del artículo 2
+Título del artículo 2
+Este pasaje ha sobrevivido durante siglos gracias a su estructura equilibrada y apariencia natural. Muchos diseñadores utilizan Lorem Ipsum para mostrar cómo se comporta un texto dentro de un diseño real.
+
+Su objetivo es simular un contenido legible sin distraer al lector, centrando la atención en los aspectos visuales del diseño.
+
+Título del contenido de Menú 2
+Lorem Ipsum
+Imagen ilustrativa del artículo 3
+Título del artículo 3
+El texto de prueba Lorem Ipsum se ha convertido en un estándar cuando se requiere un bloque de texto genérico y visualmente neutro.
+
+Su uso permite apreciar la distribución de los elementos gráficos en un sitio web o en un documento impreso sin el sesgo del contenido real.
+
+Imagen ilustrativa del artículo 4
+Título del artículo 4
+Los diseñadores utilizan Lorem Ipsum porque su composición en palabras simula el flujo natural del idioma sin tener un significado específico.
+
+De esta manera, pueden evaluar márgenes, sangrías y espacios de línea sin distracciones textuales.
+
+Imagen ilustrativa del artículo 5
+Título del artículo 5
+Aunque se basa en textos clásicos, el contenido de Lorem Ipsum ha sido modificado para evitar fragmentos reconocibles del latín original.
+
+Gracias a ello, sigue siendo una herramienta útil y atemporal para maquetadores y desarrolladores web.
+
+Título del contenido de Menú 3
+Lorem Ipsum
+Imagen ilustrativa del artículo 6
+Título del artículo 6
+Lorem Ipsum no solo se utiliza en la web, también es común en la edición de revistas y publicaciones impresas.
+
+Su neutralidad lo hace ideal para previsualizar el formato de textos en múltiples idiomas.
+
+Título del contenido de Menú 4
+Lorem Ipsum
+Imagen ilustrativa del artículo 7
+Título del artículo 7
+La adopción de etiquetas semánticas en HTML5 favorece la estructura lógica de los contenidos.
+
+El uso de secciones, artículos y cabeceras mejora la accesibilidad y la comprensión del documento.
+
+Título del contenido de Menú 5
+Lorem Ipsum
+Imagen ilustrativa del artículo 8
+Título del artículo 8
+En HTML5, las etiquetas semánticas como <header>, <nav>, <main> y <footer> permiten una organización más clara del contenido.
+
+Esta estructura mejora la experiencia del usuario y facilita la indexación por parte de los motores de búsqueda.
+
+© 2025. DAM1 IES Saladillo.
+Avda. C. Duque de Rivas, s/n, 11207 Algeciras, Cádiz (España).
